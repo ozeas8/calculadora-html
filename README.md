@@ -16,8 +16,6 @@ Este é um projeto simples de interface gráfica de uma calculadora, desenvolvid
 ## 📷 Preview
 <img width="1901" height="946" alt="image" src="https://github.com/user-attachments/assets/02508ebd-2f2b-4651-aef4-790df9540a58" />
 
-> Em breve: você pode adicionar uma imagem ou link do GitHub Pages aqui, se publicar o projeto online.
-
 ## 🚀 Como visualizar
 
 1. Baixe ou clone o repositório
