@@ -1,22 +1,22 @@
-# 🧮 Calculadora HTML
+## Calculadora-HTML
 
 Este é um projeto simples de interface gráfica de uma calculadora, desenvolvido com **HTML** e **CSS**. O objetivo é praticar estruturação de layout e organização visual de componentes em uma aplicação web.
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - Interface responsiva com botões organizados
-- Layout inspirado em calculadoras físicas
+- Layout inspirado em calculadoras Digital
 - Preparado para receber lógica com JavaScript futuramente
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
 
-## 📷 Preview
+## Preview
 <img width="300" height="340" alt="image" src="gif-calculadora.gif" />
 
-## 🚀 Como visualizar
+## Como visualizar
 
 1. Baixe ou clone o repositório
 2. Abra o arquivo `calculadora.html` em qualquer navegador moderno
