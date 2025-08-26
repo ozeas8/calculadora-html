@@ -14,7 +14,7 @@ Este é um projeto simples de interface gráfica de uma calculadora, desenvolvid
 - CSS3
 
 ## 📷 Preview
-<img width="1901" height="946" alt="image" src="gif-calculadora.gif" />
+<img width="480" height="480" alt="image" src="gif-calculadora.gif" />
 
 ## 🚀 Como visualizar
 
