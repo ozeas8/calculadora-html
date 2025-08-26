@@ -25,6 +25,3 @@ Este é um projeto simples de interface gráfica de uma calculadora, desenvolvid
 
 Este projeto faz parte da minha jornada de estudos em Análise e Desenvolvimento de Sistemas. Estou explorando conceitos de front-end e preparando terreno para integrar lógica com JavaScript e futuramente publicar versões mais completas.
 
----
-
-Feito por [Ozéas Silva ](https://github.com/ozeas8)
