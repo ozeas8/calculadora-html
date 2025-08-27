@@ -11,7 +11,7 @@ Este projeto faz parte da minha jornada de estudos em Análise e Desenvolvimento
 
 ## Tecnologias utilizadas
 
-- HTML5
+- HTML
 
 ## Preview
 <img width="300" height="340" alt="image" src="gif-calculadora.gif" />
